@@ -27,32 +27,35 @@ Existen diferentes capacidades para el microSD
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Adaptador_MicroSD.png/330px-Adaptador_MicroSD.png)
 --------------------------------------------------------------------
-Las características 
-
-- Tiene un peso de 0.258g
-- El voltaje de funcionamiento va desde 2.7 - 3.6
-- No tiene interruptor de protección contra escritura.
-- Tampoco tiene protectores de terminales.
-- Tiene una cantidad de 8 pines.
+| Las características                                    |
+|--------------------------------------------------------|
+| - Tiene un peso de 0.258g                              |
+| - El voltaje de funcionamiento va desde 2.7 - 3.6      |
+| - No tiene interruptor de protección contra escritura. |
+| - Tampoco tiene protectores de terminales.             |
+| - Tiene una cantidad de 8 pines.                       |
 
 
 --------------------------------------------------------------------
+| \| Existe 3 formatos para las microSD                                                                                                      | \| |
+|--------------------------------------------------------------------------------------------------------------------------------------------|----|
+| \| SD: Aquellos que ofrecen capacidades entre 1mb y 4GB con velocidades máximas de 25 MB/s.                                                | \| |
+| \| SDHC: (Secure Digital High Capacity) es la capacidad de hasta 32 GB y velocidades hasta 104 MB/s.                                       | \| |
+| \| SDXC: (Secure Digital eXtended Capacity) es el más reciente y ofrece una capacidad de hasta 2TB y una velocidad superior a 300 MB/s. \| |    |
 
-Existe 3 formatos para las microSD
-SD: Aquellos que ofrecen capacidades entre 1mb y 4GB con velocidades máximas de 25 MB/s.
-SDHC: (Secure Digital High Capacity) es la capacidad de hasta 32 GB y velocidades hasta 104 MB/s.
-SDXC: (Secure Digital eXtended Capacity) es el más reciente y ofrece una capacidad de hasta 2TB y una velocidad superior a 300 MB/s.
+
 --------------------------------------------------------------------
-Tambien tiene 4 clases y velocidades
-Clase 2: Velocidad mínima 2 MB/s
-Clase 4: Velocidad mínima 4 MB/s
-Clase 6: Velocidad mínima 6 MB/s
-Clase 10: Velocidad mínima 10 MB/s
+| Tambien tiene 4 clases y velocidades                              |
+|-------------------------------------------------------------------|
+| Clase 2: Velocidad mínima 2 MB/s                                  |
+| Clase 4: Velocidad mínima 4 MB/s                                  |
+| Clase 6: Velocidad mínima 6 MB/s                                  |
+| Clase 10: Velocidad mínima 10 MB/s                                |
+| Velocidades                                                       |
+| V6: Velocidad mínima 6 MB/s para vídeos en definición estándar.   |
+| V10: Velocidad mínima 10 MB/s para vídeos en definición estándar. |
+| V30: Velocidad mínima 30 MB/s para vídeos 1080p o Full HD.        |
+| V60: Velocidad mínima 60 MB/s para vídeos en 4K.                  |
+| V90: Velocidad mínima 90 MB/s para vídeos en 8K.                  |
 
-Velocidades
-V6: Velocidad mínima 6 MB/s para vídeos en definición estándar.
-V10: Velocidad mínima 10 MB/s para vídeos en definición estándar.
-V30: Velocidad mínima 30 MB/s para vídeos 1080p o Full HD.
-V60: Velocidad mínima 60 MB/s para vídeos en 4K.
-V90: Velocidad mínima 90 MB/s para vídeos en 8K.
 --------------------------------------------------------------------
